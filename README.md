@@ -1,1 +1,2 @@
 # Data-analytics-project-in-banking-domain
+This project explores the use of data analytics in the banking domain to derive actionable insights that help improve customer experience, detect fraud, optimize operations, and increase profitability. By analyzing customer demographics, transaction patterns, loan behaviors, and churn indicators, we aim to generate visual and statistical insights for better decision-making.
